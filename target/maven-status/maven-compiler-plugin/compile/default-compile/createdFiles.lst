@@ -1,0 +1,4 @@
+com\lxm\controller\UserController.class
+com\lxm\domain\User.class
+com\lxm\service\impl\UserServiceImpl.class
+com\lxm\service\UserService.class
